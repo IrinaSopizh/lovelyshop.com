@@ -1,5 +1,5 @@
 <!-- HOME SLIDER -->
-<div class="slider-wrap">
+	<div class="slider-wrap">
 		<div class="fullwidthbanner-container" >
 			<div class="fullwidthbanner">
 				<ul>

@@ -1,6 +1,22 @@
 @extends('layouts.app')
 
 @section('content')
+	<!-- breadcrumb-area start -->
+	<div class="breadcrumb-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="breadcrumb">
+						<ul>
+							<li><a href="index.html">Home</a> <i class="fa fa-angle-right"></i></li>
+							<li>Blog</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- breadcrumb-area end -->
 	<!-- about-header-area start -->
     <div class="about-header-area">
 		<div class="container">
