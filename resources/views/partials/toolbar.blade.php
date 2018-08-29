@@ -5,18 +5,18 @@
 		<a class="list" href="/partials/catalog-list"><i class="fa fa-th-list"></i></a>
 	</div>
 	<div class="show-result">
-		<p> Showing 1–12 of 19 results</p>
+		<p> Показано результати 1–12 з 19 </p>
 	</div>
 	<div class="toolbar-form">
 		<form action="#">
 			<div class="tolbar-select">
 				<select>
-					<option value="volvo">Sort by popularity</option>
-					<option value="saab">Default sorting</option>
-					<option value="mercedes">Sort by average rating</option>
-					<option value="audi">Sort by newness</option>
-					<option value="audi">Sort by price: low to high</option>
-					<option value="audi">Sort by price: high to low</option>
+					<option value="volvo">Сортувати по популярності</option>
+					<option value="saab">Сортувати по замовчуванню</option>
+					<option value="mercedes">Сортувати по рейтингу</option>
+					<option value="audi">Сортувати по новинкам</option>
+					<option value="audi">Сортувати по ціні: від низької до високої</option>
+					<option value="audi">Сортувати по ціні: від високої до низької</option>
 				</select> 
 			</div>
 		</form>								

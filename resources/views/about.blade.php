@@ -8,8 +8,8 @@
 				<div class="col-md-12">
 					<div class="breadcrumb">
 						<ul>
-							<li><a href="index.html">Home</a> <i class="fa fa-angle-right"></i></li>
-							<li>Blog</li>
+							<li><a href="index.html">Головна</a> <i class="fa fa-angle-right"></i></li>
+							<li>Про нас</li>
 						</ul>
 					</div>
 				</div>
@@ -37,7 +37,7 @@
 				<!-- about-img start -->
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="about-img">
-						<img src="img/about/1.jpg" alt="" />
+						<img src="/img/about/about.jpg" alt="" />
 					</div>
 				</div>
 				<!-- about-img end -->
@@ -99,125 +99,6 @@
 		</div>
 	</div>
 	<!-- about-counter-area end -->
-	<!-- about-service-area start -->
-	<div class="about-service-area">
-		<div class="container">
-			<div class="row">
-				<!-- single-service start -->
-				<div class="col-md-3 col-sm-4">
-					<div class="single-service">
-						<h3>CUSTOMER SUPPORT</h3>
-						<div class="sercice-icon">
-							<i class="fa fa-smile-o"></i>
-						</div>
-						<div class="service-text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-service end -->
-				<!-- single-service start -->
-				<div class="col-md-3 col-sm-4">
-					<div class="single-service">
-						<h3>WEB DESIGN</h3>
-						<div class="sercice-icon">
-							<i class="fa fa-html5"></i>
-						</div>
-						<div class="service-text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-service end -->
-				<!-- single-service start -->
-				<div class="col-md-3 col-sm-4">
-					<div class="single-service">
-						<h3>WORDPRESS THEMES</h3>
-						<div class="sercice-icon">
-							<i class="fa fa-link"></i>
-						</div>
-						<div class="service-text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-service end -->
-				<!-- single-service start -->
-				<div class="col-md-3 hidden-sm">
-					<div class="single-service">
-						<h3>LOGO DESIGN</h3>
-						<div class="sercice-icon">
-							<i class="fa fa-camera"></i>
-						</div>
-						<div class="service-text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-service end -->
-			</div>
-		</div>
-	</div>
-	<!-- about-service-area end -->
-	<!-- about-team-area start -->
-	<div class="about-team-area">
-		<div class="container">
-			<div class="row">
-				<!-- single-about-team start -->
-				<div class="col-md-3 col-sm-4">
-					<div class="single-about-team">
-						<div class="about-team-img">
-							<img src="img/about/team_member_1.jpg" alt="" />
-						</div>
-						<div class="about-team-info">
-							<h3>John Doe</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi malesuada vestibulum.</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-about-team end -->
-				<!-- single-about-team start -->
-				<div class="col-md-3 col-sm-4">
-					<div class="single-about-team">
-						<div class="about-team-img">
-							<img src="img/about/team_member_4.jpg" alt="" />
-						</div>
-						<div class="about-team-info">
-							<h3>MIKE DOE</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi malesuada vestibulum.</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-about-team end -->
-				<!-- single-about-team start -->
-				<div class="col-md-3 col-sm-4">
-					<div class="single-about-team">
-						<div class="about-team-img">
-							<img src="img/about/team_member_2.jpg" alt="" />
-						</div>
-						<div class="about-team-info">
-							<h3>JANE SMITH</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi malesuada vestibulum.</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-about-team end -->
-				<!-- single-about-team start -->
-				<div class="col-md-3 col-sm-3 hidden-sm">
-					<div class="single-about-team">
-						<div class="about-team-img">
-							<img src="img/about/team_member_3.jpg" alt="" />
-						</div>
-						<div class="about-team-info">
-							<h3>dolor sit</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi malesuada vestibulum.</p>
-						</div>
-					</div>
-				</div>
-				<!-- single-about-team end -->
-			</div>
-		</div>
-	</div>
-	<!-- about-team-area end --> 
+	@include('partials.brands')
 @endsection
 

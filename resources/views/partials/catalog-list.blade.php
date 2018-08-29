@@ -5,15 +5,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-						    <img class="primary-image" src="img/product/17.jpg" alt="" />
-							<img class="secondary-image" src="img/product/18.jpg" alt="" />
+						    <img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Convallis quam sit</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -22,7 +22,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£90.00</span>
+							<span class="new-price">1752.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -30,19 +30,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 							    <div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 								    <div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -57,15 +57,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/1.jpg" alt="" />
-							<img class="secondary-image" src="img/product/2.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Aliquam lobortis est</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -74,8 +74,8 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£50.00</span>
-							<span class="old-price">£80.00</span>
+							<span class="new-price">1752.00 грн.</span>
+							<span class="old-price">2190.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -83,19 +83,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -110,15 +110,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/2.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/1.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Pellentesque posuere</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -127,7 +127,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£100.00</span>
+							<span class="new-price">1752.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -135,19 +135,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 							    <div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -162,15 +162,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/7.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/2.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Pellentesque posuere</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -179,7 +179,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£100.00</span>
+							<span class="new-price">1752.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -187,19 +187,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 							    <div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -214,15 +214,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/3.jpg" alt="" />
-							<img class="secondary-image" src="img/product/4.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div> 
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Vestibulum dictum magna</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -231,7 +231,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£150.00</span>
+							<span class="new-price">1752.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -239,19 +239,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -266,15 +266,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/5.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/2.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Lorem ipsum dolor</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -283,7 +283,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£90.00</span>
+							<span class="new-price">1752.00 рн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -291,19 +291,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -318,15 +318,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/8.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/3.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Ація</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Light house shoes</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -335,7 +335,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-						    <span class="new-price">£90.00</span>
+						    <span class="new-price">1752.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -343,19 +343,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -370,15 +370,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/4.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/7.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Kaoreet lobortis</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -387,8 +387,8 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£60.00</span>
-						    <span class="old-price">£100.00</span>
+							<span class="new-price">1752.00 грн.</span>
+						    <span class="old-price">2190.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -396,19 +396,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -423,15 +423,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/5.jpg" alt="" />
-							<img class="secondary-image" src="img/product/6.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Tincidunt malesuada</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -440,8 +440,8 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£90.00</span>
-						    <span class="old-price">£120.00</span>
+							<span class="new-price">1752.00 грн.</span>
+						    <span class="old-price">2190.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -449,19 +449,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 							    <div class="add-to-links">
 						            <div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -476,15 +476,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/6.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/9.jpg" alt="" />
+							<img class="primary-image" src="img/product/women/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Condimentum posuere</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -493,8 +493,8 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£130.00</span>
-							<span class="old-price">£180.00</span>
+							<span class="new-price">1752.00 грн.</span>
+							<span class="old-price">2190.00 грн.</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -502,19 +502,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 							    <div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -529,15 +529,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/women/5.jpg" alt="" />
-							<img class="secondary-image" src="img/product/women/7.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Lorem ipsum dolor sit amet</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -546,8 +546,8 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£150.00</span>
-							<span class="old-price">£180.00</span>
+							<span class="new-price">1752.00 грн.</span>
+							<span class="old-price">2190.00 грн.</span>
 						</div>
 						<div class="product-desc">
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -555,19 +555,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 									<div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										
@@ -582,15 +582,15 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
 					<div class="product-img">
 						<a href="#">
-							<img class="primary-image" src="img/product/7.jpg" alt="" />
-							<img class="secondary-image" src="img/product/8.jpg" alt="" />
+							<img class="primary-image" src="img/product/BN-BAG-3-white(1)-729x1050.jpg" alt="" />
+							<img class="secondary-image" src="img/product/BN-BAG-3-white(3)-729x1050.jpg" alt="" />
 						</a>
-						<span class="sale-text">Sale</span>	
+						<span class="sale-text">Акція</span>	
 					</div>									
 				</div>
 				<div class="col-md-8 col-sm-8 col-xs-12">
 					<div class="product-content">
-						<h2 class="product-name"><a href="#">Sport Adidas shoes</a></h2>
+						<h2 class="product-name"><a href="#">БОХО-СУМКА ЛІЛУ БІЛА</a></h2>
 						<div class="pro-rating">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -599,8 +599,8 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 						</div>
 						<div class="price-box">
-							<span class="new-price">£100.00</span>
-							<span class="old-price">£130.00</span>
+							<span class="new-price">1752.00 грн.</span>
+							<span class="old-price">2190.00</span>
 						</div>
 						<div class="product-desc">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
@@ -608,19 +608,19 @@
 						<div class="actions">
 							<div class="action-buttons">
 								<div class="add-to-cart">
-									<a href="#">Add to cart</a>
+									<a href="#">В корзину</a>
 								</div>
 								<div class="add-to-links">
 									<div class="add-to-wishlist">
-										<a href="#" data-toggle="tooltip" title="Add to Wishlist"><i class="fa fa-star"></i>
+										<a href="#" data-toggle="tooltip" title="Додати до списку бажань"><i class="fa fa-star"></i>
 										</a>
 									</div>
 								    <div class="compare-button">
-										<a href="#" data-toggle="tooltip" title="Compare"><i class="fa fa-exchange"></i></a>
+										<a href="#" data-toggle="tooltip" title="Порівняти"><i class="fa fa-exchange"></i></a>
 									</div>									
 								</div>
 								<div class="quickviewbtn">
-									<a href="#" data-toggle="tooltip" title="Quick View"><i class="fa fa-search-plus"></i></a>
+									<a href="/product-details" data-toggle="tooltip" title="Переглянути"><i class="fa fa-search-plus"></i></a>
 								</div>
 							</div>
 						</div>										

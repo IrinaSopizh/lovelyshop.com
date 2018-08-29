@@ -2532,7 +2532,7 @@ width: 100%;}
 19. about page
 ============================= */
 .about-header-area {
-  background: rgba(f, f, f, 5) url("bg.jpg") no-repeat fixed center center / cover ;
+  background: rgba(0, 0, 0, 0) url("/img/about/about1.jpg") no-repeat fixed center center / cover;
 
 }
 .about-header{text-align: center;padding:110px 0}
@@ -2564,7 +2564,7 @@ width: 30px;}
 line-height: 20px;
 margin-bottom: 20px;}
 .about-counter-area {
-  background: rgba(0, 0, 0, 0) url("img/about/bn-bag-11-tiffany-729x1050.jpg") no-repeat fixed center center / cover ;
+  background: rgba(0, 0, 0, 0) url("/img/about/about1.jpg") no-repeat fixed center center / cover ;
   padding: 120px 0;
 }
 .single-counter {

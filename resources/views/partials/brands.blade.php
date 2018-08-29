@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="section-heading">
-					<h3>Our Brands</h3>
+					<h3>Наші бренди</h3>
 					<div class="title-icon">
 						<span><i class="fa fa-angle-left"></i> <i class="fa fa-angle-right"></i></span>
 					</div>						
@@ -18,14 +18,14 @@
 			<!-- single-brand start -->
 				<div class="col-md-2">
 					<div class="single-brand">
-						<a href="#"><img src="img/brand/1.png" alt="" /></a>
+						<a href="#"><img src="img/brand/babak1.png" alt="" /></a>
 					</div>
 				</div>
 			<!-- single-brand end -->
 			<!-- single-brand start -->
 				<div class="col-md-2">
 					<div class="single-brand">
-						<a href="#"><img src="img/brand/1.png" alt="" /></a>
+						<a href="#"><img src="img/brand/blanknot1.png" alt="" /></a>
 					</div>
 				</div>
 			<!-- single-brand end -->

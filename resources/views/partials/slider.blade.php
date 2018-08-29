@@ -4,7 +4,7 @@
 			<div class="fullwidthbanner">
 				<ul>
 					<li data-transition="random" data-slotamount="7" data-masterspeed="1000">
-						<img src="https://blanknote.com.ua/image/cache/banner-spirit-2250-600-min-2250x600.jpg" alt="slide" >
+						<img src="/img/slider/baner1.png" alt="slide" >
 						<div class="tp-caption large_black sfr"
 						data-x="150"
 						data-y="350" 
@@ -12,7 +12,7 @@
 						data-start="1100"
 						data-easing="easeInOutBack" 
 							style="font-size: 18px; font-weight: bold; text-transform: uppercase; color: #FFF;">
-							fashion men's
+							модно та стильно
 						</div>
 						<div class="tp-caption large_black sfr"
 						data-x="150"
@@ -29,7 +29,7 @@
 						data-start="1400"
 						data-easing="easeInOutBack"
 							style=" font-size: 100px; font-weight: 800; line-height:80px;text-transform: uppercase; color: #fff; text-shadow: 0 0 2px rgba(0,0,0,.05)">
-							collection
+							набори blanknote
 						</div>
 						<div class="tp-caption large_black sfr"
 						data-x="150"
@@ -38,7 +38,7 @@
 						data-start="1400"
 						data-easing="easeInOutBack"
 							style=" font-size: 20px; font-weight: normal; color: #FFF;line-height:14px;text-transform: uppercase;">
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+							Меньше часу на роздуми, що подарувати, більше часу на приємні приготування!
 						</div>
 						<div class="tp-caption lfb carousel-caption-inner"
 						data-x="150"
@@ -47,14 +47,14 @@
 						data-start="1700"
 						data-easing="easeInOutBack" 
 							style=" font-size: 17px; font-weight: bold; text-transform: uppercase; color: #F3F3F3;">
-							<a href="#" class="s-btn" style="background: #EC4445;color: #ffffff;display: block;padding: 12px 28px;">shop now</a>
+							<a href="#" class="s-btn" style="background: #EC4445;color: #ffffff;display: block;padding: 12px 28px;">в магазин</a>
 						</div>
 					</li>
 
 					<li data-transition="random"
 					data-slotamount="7"
 					data-masterspeed="1000">
-						<img src="https://blanknote.com.ua/image/cache/catalog/banners/banner-kity-gray-2250-600-2250x600.jpg" alt="slide" >
+						<img src="/img/slider/babak1.jpg" alt="slide" >
 						<div class="tp-caption large_black sfr"
 						data-x="150"
 						data-y="350"
@@ -62,7 +62,7 @@
 						data-start="1100"
 						data-easing="easeInOutBack" 
 							style="font-size: 18px; font-weight: bold; text-transform: uppercase; color: #FFF;">
-							fashion women’s
+							стильно та модно
 						</div>
 						<div class="tp-caption large_black sfr"
 						data-x="150"
@@ -79,7 +79,7 @@
 						data-start="1400"
 						data-easing="easeInOutBack"
 							style=" font-size: 100px; font-weight: 800; line-height:80px;text-transform: uppercase; color: #fff; text-shadow: 0 0 2px rgba(0,0,0,.05)">
-							Latest collection
+							шкіряні рюкзаки
 						</div>
 						<div class="tp-caption large_black sfr"
 						data-x="150"
@@ -88,7 +88,7 @@
 						data-start="1400"
 						data-easing="easeInOutBack"
 							style=" font-size: 20px; font-weight: normal; color: #FFF;line-height:14px;text-transform: uppercase;">
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+							додайте зовнішньому вигляду трохи розкоші та шику
 						</div>
 						<div class="tp-caption lfb carousel-caption-inner"
 						data-x="150"
@@ -97,7 +97,7 @@
 						data-start="1700"
 						data-easing="easeInOutBack" 
 							style=" font-size: 17px; font-weight: bold; text-transform: uppercase; color: #F3F3F3;">
-							<a href="#" class="s-btn" style="background:#EC4445;color: #ffffff;display: block;padding: 12px 28px;">shop now</a>
+							<a href="#" class="s-btn" style="background:#EC4445;color: #ffffff;display: block;padding: 12px 28px;">в магазин</a>
 						</div>
 					</li>
 				</ul>
