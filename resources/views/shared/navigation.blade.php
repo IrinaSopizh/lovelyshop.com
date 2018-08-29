@@ -111,7 +111,7 @@
 									<li><a href="/">Головна</a></li>
 									<li><a href="/about">Про нас</a></li>
 									<li><a href="/blog">Блог</a></li>
-									<li><a href="shop.html">Каталог</a>
+									<li><a href="/catalog">Каталог</a>
 										<div class="mega-menu">											
 											<span>
 												<a href="#" class="mega-title">Для жінок </a>
@@ -156,7 +156,7 @@
 										</ul>									
 									</li>
 									<!-- <li><a href="shop.html">Footwear  </a></li> -->
-									<li><a href="contact.html">Контакти</a></li>
+									<li><a href="/contact">Контакти</a></li>
 								</ul>
 							</nav>
 						</div>

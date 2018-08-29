@@ -29,34 +29,28 @@
     @endsection
 </head>
 
-<body class="@yield('body_class')">
-@section('navigation')
-    @include('shared.navigation')
-@show
+    <body class="@yield('body_class')">
+        @section('navigation')
+            @include('shared.navigation')
+        @show
 
-
-@include('partials.breadcrumb')
-
-<div class="blog-area pad-60">
-	<div class="container">
-		<div class="row">
-             @yield('sidebar')
-             @yield('content')
+        @include('partials.map')
+        
+        <div class="contact-area">
+		    <div class="container">
+			    <div class="row">
+                    @yield('content')
+                </div>
+	        </div>
         </div>
-	</div>
-</div>
 
-@section('footer')
-    @include('shared.footer')
-@show
+        @section('footer')
+            @include('shared.footer')
+         @show
        
-@section('scripts')
-    @include('shared.scripts')
-@show
+        @section('scripts')
+            @include('shared.scripts')
+        @show
 
     </body>
 </html>
-
-
-
-

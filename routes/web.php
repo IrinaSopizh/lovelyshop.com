@@ -17,3 +17,5 @@
 Route::get('/', 'HomeController@index');
 Route::get('/about', 'AboutController@about');
 Route::get('/blog', 'PostsController@index');
+Route::get('/catalog', 'CatalogController@index');
+Route::get('/contact', 'ContactController@index');
